@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![logo][] PowerShell
 
 Welcome to the PowerShell GitHub Community!
@@ -251,3 +252,6 @@ For more information see the [Code of Conduct FAQ][conduct-FAQ] or contact [open
 [conduct-FAQ]: http://opensource.microsoft.com/codeofconduct/faq/
 [conduct-email]: mailto:opencode@microsoft.com
 [conduct-md]: https://github.com/PowerShell/PowerShell/tree/master/./CODE_OF_CONDUCT.md
+=======
+# kmahesh
+>>>>>>> 2894339325a2a34dab080d0fa9bc9b372ddefa0b
